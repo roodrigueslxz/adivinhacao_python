@@ -17,9 +17,9 @@ Durante o jogo, o usuário interage com a personagem Banbaleena, cuja personalid
 
 # Como executar
 1. Clone o repositório:
-  git clone https://github.com/seu-usuario/seu-repositorio.git
+  git clone https://github.com/roodrigueslxz/adivinhacao_python.git
 2. Acesse a pasta do projeto:
-  cd seu-repositorio
+  cd adivinhacao_python
 3. Execute o jogo:
   python minigame.v2.py
 
